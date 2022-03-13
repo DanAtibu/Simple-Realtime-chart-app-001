@@ -1,0 +1,17 @@
+{
+  "homepage": "http://DanAtibu.github.io/Simple-Realtime-chart-app-001",
+  "name": "realtimechart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./code",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
